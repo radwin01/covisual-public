@@ -1,2 +1,6 @@
 # covisual
-A web-app designed to help Torontonians safely navigate around the city during the COVID-19 pandemic. (IN PROGRESS)
+visualize your COVID-19 risk
+
+## sneak peak
+![landing page](./landing.png)
+<p align="center"><sup><i>Landing page</i></sup></p>
